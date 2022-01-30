@@ -8,27 +8,27 @@
   </a>
 </p>
 <p align="center">
-    Api que buscar imagens automaticamente a cada requisição
+    Api que busca imagens automaticamente a cada requisição
 </p>
 
 <p align="center">
  <a href="#status">Status</a> • 
- <a href="#objective">Objective</a> •
- <a href="#installation">Installation</a> • 
- <a href="#technology">Technology</a> • 
- <a href="#author">Author</a> • 
- <a href="#licence">License</a>
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#instalacao">Instalação</a> • 
+ <a href="#tecnologia">tecnologia</a> • 
+ <a href="#autor">Autor</a> • 
+ <a href="#licenca">Licença</a>
 </p>
 
 <h2 align="center" id=status> 
 	✔️ Concluded ✔️
 </h2>
 
-<h2 id=objective>📜 Objetivo</h2>
+<h2 id=objetivo>📜 Objetivo</h2>
 
 Trabalhar com API's no Net 6.
 
-<h2 id=installation>☑️ Instalação</h2>
+<h2 id=instalacao>☑️ Instalação</h2>
 
 1. Clone o repositório
 2. Abra o projeto com o Visual Studio Code
@@ -38,22 +38,23 @@ Trabalhar com API's no Net 6.
 dotnet run
 ~~~~
 
-4. Bata nas rotas:
+4. Rotas para requisição:
 
 ~~~~
 https://localhost:7023/Profile
 https://localhost:7023/Profile?image=true
 ~~~~
 
-<h2 id=technology>🧰 Tecnologias</h2>
+<h2 id=tecnologia>🧰 Tecnologias</h2>
+
 Utilizamos algumas tecnologias:
 
-- GIT: <a href="https://git-scm.com/downloads">Setup</a>
+- GIT: <a href="https://git-scm.com/downloads">Download</a>
 - Visual Studio Code: <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
 - SDK Net: <a href="https://dotnet.microsoft.com/en-us/download/dotnet/6.0">.Net 6</a>
   
-<h2 id=author>😄 Autor</h2>
+<h2 id=autor>😄 Autor</h2>
 Desenvolvido por <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a>
 
-<h2 id=licence>🆓 Licença</h2>
-Este projeto está sob a licença: <a href="https://github.com/danhpaiva/csharp-webapi-dio-profile/blob/main/LICENSE">MIT</a>
+<h2 id=licenca>🆓 Licença</h2>
+Este projeto está sob a licença: <a href="https://github.com/danhpaiva/csharp-webapi-dio-profile/blob/main/licença">MIT</a>
