@@ -15,7 +15,7 @@
  <a href="#status">Status</a> • 
  <a href="#objetivo">Objetivo</a> •
  <a href="#instalacao">Instalação</a> • 
- <a href="#tecnologia">tecnologia</a> • 
+ <a href="#tecnologia">Tecnologia</a> • 
  <a href="#autor">Autor</a> • 
  <a href="#licenca">Licença</a>
 </p>
