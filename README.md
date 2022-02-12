@@ -21,12 +21,12 @@
 </p>
 
 <h2 align="center" id=status> 
-	✔️ Concluded ✔️
+	✔️ concluído ✔️
 </h2>
 
 <h2 id=objetivo>📜 Objetivo</h2>
 
-Trabalhar com API's no Net 6.
+Criação de API utilizando o SDK do Net 6.
 
 <h2 id=instalacao>☑️ Instalação</h2>
 
